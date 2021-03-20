@@ -1,0 +1,4 @@
+For converting html to pdf
+    sudo apt-get install wkhtmltopdf
+Install Python packages
+    nltk, emoji, wordcloud, pdfkit
